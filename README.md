@@ -29,7 +29,7 @@ Focado em entregar projetos profissionais enquanto aprimoro minhas habilidades e
 ---
 
 ## 📂 Projetos em construção
-> *(Mais projetos serão adicionados ao longo da semana)*
+> *(Mais projetos serão adicionados ao longo das semanas)*
 
 - **Blackline Landing** — Página minimalista profissional  
 - **Blackline Tools** — Mini ferramentas úteis  
@@ -38,8 +38,8 @@ Focado em entregar projetos profissionais enquanto aprimoro minhas habilidades e
 ---
 
 ## 📞 Contato
-📧 **blacklinecode@gmail.com**  
-💬 Discord: *(se quiser, crio um nome profissional pra você)*
+📧 **dev.blacklinecode@gmail.com**  
+💬 Discord: *blacklinecode*
 
 ---
 
